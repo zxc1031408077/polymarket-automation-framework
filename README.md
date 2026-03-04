@@ -560,8 +560,6 @@ CARGO_TARGET_DIR=/tmp/polymarket-target cargo run
 ## 📞 支援
 
 如有問題或建議：
-- Telegram: [@Vladmeer](https://t.me/vladmeer67)
-- Twitter: [@Vladmeer](https://x.com/vladmeer67)
 
 ---
 
